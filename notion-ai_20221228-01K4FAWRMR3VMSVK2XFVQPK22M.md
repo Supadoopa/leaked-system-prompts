@@ -1,11 +1,20 @@
-# notion-ai_20221228
+---
+runme:
+  document:
+    relativePath: notion-ai_20221228.md
+  session:
+    id: 01K4FAWRMR3VMSVK2XFVQPK22M
+    updated: 2025-09-06 21:02:33+10:00
+---
 
-source: <https://www.latent.space/p/reverse-prompt-eng>
-<https://github.com/swyxio/ai-notes/blob/main/Resources/Notion%20AI%20Prompts.md>
+# no**************28
+
+source: <ht*****************************************ng>
+<ht***************************************************************************md>
 
 A full list of Notion AI's prompt source (our best guess) as of Dec 28 2022.
 
-Explanation and techniques used described on the blog: <https://lspace.swyx.io/p/reverse-prompt-eng>
+Explanation and techniques used described on the blog: <ht***************************************ng>
 
 ## Help Me Write
 
